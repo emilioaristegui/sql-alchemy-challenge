@@ -51,7 +51,7 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 - A stations route that:
   - Returns jsonified data of all of the stations in the database.
-  - 
+    
 - A tobs route that:
   - Returns jsonified data for the most active station (USC00519281).
   - Only returns the jsonified data for the last year of data.
